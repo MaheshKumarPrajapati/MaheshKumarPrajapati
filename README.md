@@ -55,7 +55,7 @@
   #
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaheshKumarPrajapati)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaheshKumarPrajapati)](https://github.com/MaheshKumarPrajapati/github-profile-trophy)
 
 
 
@@ -64,7 +64,7 @@
 
 
 <div align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
+    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 

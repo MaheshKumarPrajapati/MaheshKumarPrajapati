@@ -1,10 +1,10 @@
 <p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Mahesh Kumar Prajapati</h1>
-<h2 align="center">Experienced Application Developer with a demonstrated history of working in the computer software development industry. Skilled in Android, Kotlin, MySQL, Core Java.</h2>
+<h2 align="center"></h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Mahesh+Kumar+Prajapati;Experience+in+Android+Application+Developement...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=E+x+p+e+r+i+e+n+c+e+d+ Application +Developer +with +a +demonstrated +history +of +working +in +the +computer +software +development +industry+. +Skilled +in +Android+,+ Kotlin+,+ MySQL+,+ +Core+ Java+.+)](https://git.io/typing-svg)
 
 
  <h1 align="center" > 🙋‍♂️ About Me </h1>

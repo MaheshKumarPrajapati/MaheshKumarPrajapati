@@ -1,8 +1,8 @@
-<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://natecoit.com/wp-content/uploads/2019/06/2.gif" height="175px"/></a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Welcome)](https://git.io/typing-svg)0
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=)](https://git.io/typing-svg)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Mahesh Kumar Prajapati</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, My Name is Mahesh Kumar Prajapati</h1>
 <h2 align="center">Experienced Application Developer with demonstrated history of working in the computer software development industry. Skilled in Android, Kotlin, MySQL, Core Java.</h2>
 
 

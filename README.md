@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Mahesh Kumar Prajapati</h1>
-<h2 align="center">I'm a IT professional with 8 years experience</h2>
+<h2 align="center">Experienced Application Developer with a demonstrated history of working in the computer software development industry. Skilled in Android, Kotlin, MySQL, Core Java.</h2>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Mahesh+Kumar+Prajapati;Experience+in+Android+Application+Developement...)](https://git.io/typing-svg)
@@ -43,12 +43,12 @@
 </p>
     
 
-<a href="https://github.com/manishchouhan2396/github-readme-stats" >
-  <img   alt="Manish's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=manishchouhan2396&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/MaheshKumarPrajapati/github-readme-stats" >
+  <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=MaheshKumarPrajapati&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
-  <a href="https://github.com/manishchouhan2396/github-readme-stats">
-  <img   alt="Manish's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishchouhan2396&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/MaheshKumarPrajapati/github-readme-stats">
+  <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshKumarPrajapati&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
   
@@ -57,7 +57,7 @@
   #
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manishchouhan2396)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaheshKumarPrajapati)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -66,7 +66,7 @@
 
 
 <div align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
@@ -81,15 +81,15 @@
 
 
 <p align="center">
-    <a href="https://github.com/manishchouhan2396/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKumarPrajapati&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/MaheshKumarPrajapati/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahesh Kumar Prajapati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKumarPrajapati&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
 <h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaheshKumarPrajapati&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Mahesh Kumar Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaheshKumarPrajapati&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 ## ❤ Views and Followers

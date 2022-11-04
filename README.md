@@ -4,7 +4,7 @@
 <h2 align="center"></h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=E+x+p+e+r+i+e+n+c+e+d+ Application +Developer +with +a +demonstrated +history +of +working +in +the +computer +software +development +industry+. +Skilled +in +Android+,+ Kotlin+,+ MySQL+,+ +Core+ Java+.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines="Experienced+Application +Developer +with +a +demonstrated +history +of +working +in +the +computer +software +development +industry+. +Skilled +in +Android+,+ Kotlin+,+ MySQL+,+ +Core+ Java+.")](https://git.io/typing-svg)
 
 
  <h1 align="center" > 🙋‍♂️ About Me </h1>

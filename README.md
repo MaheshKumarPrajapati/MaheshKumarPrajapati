@@ -1,11 +1,10 @@
-## Hi Folks <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Mahesh Kumar Prajapati</h1>
+<h2 align="center">I'm a IT professional with 8 years experience</h2>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=I+am+Mahesh+Kumar+Prajapati;Experience+in+Android+Application+Developement...)](https://git.io/typing-svg)
-
-
-
-
 
 
  <h1 align="center" > 🙋‍♂️ About Me </h1>
@@ -35,7 +34,14 @@
   
 
     
+## Connect with me:
 
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/mahesh-kumar-prajapati-76a03847/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mahesh_kp90"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/maheshknmiet"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> 
+</p>
     
 
 <a href="https://github.com/manishchouhan2396/github-readme-stats" >

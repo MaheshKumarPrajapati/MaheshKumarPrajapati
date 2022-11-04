@@ -27,7 +27,6 @@
 <br/>
 <br/>
 
-<h1 align="center" >📊 My Github Stars </h1>
 
 <br/>
   
@@ -67,11 +66,11 @@
 
 
 <div align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
     <a href="https://chakra-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -88,19 +87,19 @@
 
 <p align="center">
     <a href="https://github.com/manishchouhan2396/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manishchouhan2396&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKumarPrajapati&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 
 <h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
-<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manishchouhan2396&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Manish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaheshKumarPrajapati&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/manishchouhan2396">
-    <img src="https://komarev.com/ghpvc/?username=manishchouhan2396">
+<a href="https://github.com/MaheshKumarPrajapati">
+    <img src="https://komarev.com/ghpvc/?username=MaheshKumarPrajapati">
 </a>
-<a href="https://github.com/manishchouhan2396"><img src="https://img.shields.io/github/followers/manishchouhan2396?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MaheshKumarPrajapati"><img src="https://img.shields.io/github/followers/MaheshKumarPrajapati?label=Followers&style=social" alt="GitHub Badge"></a>

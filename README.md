@@ -60,7 +60,7 @@
 
 
 #
-<h1> 🚀 Languages and Tools:</h1>
+<h1> 🚀 Languages, Tools and Technologies:</h1>
 
 
 <div align="center"> 
@@ -74,6 +74,8 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.json.org/json-en.html"><img src="https://img.icons8.com/?size=48&id=114474&format=png"/></a>
+  <a href="https://www.w3schools.com/xml/el_documentation.asp"><img src="https://img.icons8.com/?size=48&id=4GsEDk3O6ZBL&format=png"/></a>
+  <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers"><img src="https://img.icons8.com/?size=48&id=rPAHs7H1vriV&format=png"/></a>
 </div>
 
 

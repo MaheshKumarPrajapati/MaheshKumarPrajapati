@@ -76,6 +76,8 @@
     <a href="https://www.json.org/json-en.html"><img src="https://img.icons8.com/?size=48&id=114474&format=png"/></a>
   <a href="https://www.w3schools.com/xml/el_documentation.asp"><img src="https://img.icons8.com/?size=48&id=4GsEDk3O6ZBL&format=png"/></a>
   <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers"><img src="https://img.icons8.com/?size=48&id=rPAHs7H1vriV&format=png"/></a>
+   <a href="https://code.visualstudio.com/download"><img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png"/></a>
+  <a href="https://swagger.io/"><img src="https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png"/></a>
 </div>
 
 

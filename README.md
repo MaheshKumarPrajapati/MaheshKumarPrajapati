@@ -65,7 +65,7 @@
 
 <div align="center"> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
-    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://icons8.com/icons/set/java"/> </a> 
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=13679&format=png"/> </a> 
     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
     <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  

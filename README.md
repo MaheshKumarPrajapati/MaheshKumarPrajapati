@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/about.5e4e5236.svg" height="175px"/></a></p>
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://phoneky.co.uk/thumbs/screensavers/down/logo-brands/android_h9ktveym.gif" height="175px"/></a></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Android+Application+Developer;with+8+years+experience)](https://git.io/typing-svg)
 

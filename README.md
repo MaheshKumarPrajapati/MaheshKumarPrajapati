@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Android+Application+Developer;with+8+years+experience)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, My Name is Mahesh Kumar Prajapati</h1>
-<h2 align="center">Experienced Application Developer with demonstrated history of working in the computer software development industry. Skilled in Android, Kotlin, MySQL, Core Java.</h2>
+<h2 align="center">Experienced Application Developer with demonstrated history of working in the computer software development industry. Skilled in Android, Kotlin and Core Java.</h2>
 
 
 
@@ -65,15 +65,15 @@
 
 <div align="center"> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://icons8.com/icons/set/java"/> </a> 
+    <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
+    <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+ <a href="https://dart.dev/guides" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://icons8.com/icon/111953/json"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
+    <a href="https://www.json.org/json-en.html"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
 </div>
 
 

@@ -97,10 +97,16 @@
     </tr>
     
     
-  
+  <tr>
+    <th>  <a href="https://play.google.com/store/apps/details?id=com.yego.passenger" target="_blank"> <img src="https://play-lh.googleusercontent.com/KWU87_2Lir1SK48JqI2aY9MJLEhiJYqAnXVgX7YlmN-ph9NYBKLEz7yFcvI6gUWzEb_X=w240-h480-rw"/> </a>  </th>
+    <th><a href="https://play.google.com/store/apps/details?id=dk.borgertip.hillerod" target="_blank"> <img src="https://play-lh.googleusercontent.com/jkiZ1Cbal4fH7GHzjSp_ryv3t09Cicmw_wMdiuKnhitX2cGGkWeAevJ_vRDZUZa9yw=w240-h480-rw"/> </a> </th>
+     <th>  <a href="https://play.google.com/store/apps/details?id=dk.geonote.android.v2pc" target="_blank"> <img src="https://play-lh.googleusercontent.com/ucyhF7bNbYEbfoQhGoMawuDGZhrNqZftFOv1MUyC7XGoYjvcVuQsLAza3gu1W6eWOw=w240-h480-rw"/> </a></th>
+       <th> <a href="https://play.google.com/store/apps/details?id=infoicon.calabria_uno" target="_blank"> <img src="https://play-lh.googleusercontent.com/wwSkQftBHR6NBwXPTzvD2akg3rEzo1KKlVDKfibWaFOoxpPx6h9JSf2Lq_CYK2wRBYs=w240-h480-rw"/> </a></th>
+     <th> <a href="https://play.google.com/store/apps/details?id=com.myviq" target="_blank"> <img src="https://play-lh.googleusercontent.com/H0ytMZ1U_m_6ymgYQeSyvEK1Wx-s0WmUzA8rcX8T-nGMZgQuqUmb0yUjSHwz4ykKpgE=w240-h480-rw"/> </a> </th>
+    </tr>
     
     
-    <a href="https://play.google.com/store/apps/details?id=com.yego.passenger" target="_blank"> <img src="https://play-lh.googleusercontent.com/KWU87_2Lir1SK48JqI2aY9MJLEhiJYqAnXVgX7YlmN-ph9NYBKLEz7yFcvI6gUWzEb_X=w240-h480-rw"/> </a> 
+   
 </div>
  
 

@@ -84,13 +84,13 @@
 </p>
 
 
-<h1 align="center">Developed Live Applications : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+<h1 align="center">Developed Live Applications: <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
 
 <div align="center"> 
     <a href="https://play.google.com/store/apps/details?id=dk.geonote.android.taskmanager" target="_blank"> <img src="https://play-lh.googleusercontent.com/rSIN7QkCnjFemUAl-cO2pfnDsYYAGicMALYu0e8eAEcnQ_M2lquNnhYhFPIXF83bEw=w240-h480-rw"/> </a>
-    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png"/> </a> 
-    <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
+    <a href="https://play.google.com/store/apps/details?id=dk.borgertip.hillerod" target="_blank"> <img src="https://play-lh.googleusercontent.com/jkiZ1Cbal4fH7GHzjSp_ryv3t09Cicmw_wMdiuKnhitX2cGGkWeAevJ_vRDZUZa9yw=w240-h480-rw"/> </a> 
+    <a href="https://play.google.com/store/apps/details?id=dk.geonote.android.v2pc" target="_blank"> <img src="https://play-lh.googleusercontent.com/ucyhF7bNbYEbfoQhGoMawuDGZhrNqZftFOv1MUyC7XGoYjvcVuQsLAza3gu1W6eWOw=w240-h480-rw"/> </a> 
   
 
 

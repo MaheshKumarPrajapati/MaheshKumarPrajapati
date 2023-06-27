@@ -36,31 +36,15 @@
 </p>
     
 #
-<h1> 🚀 Languages, Tools and Technologies:</h1>
-
-
-<div align="center"> 
-    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
-    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png"/> </a> 
-    <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
-    <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
- <a href="https://dart.dev/guides" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
-  <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.json.org/json-en.html"><img src="https://img.icons8.com/?size=48&id=114474&format=png"/></a>
-  <a href="https://www.w3schools.com/xml/el_documentation.asp"><img src="https://img.icons8.com/?size=48&id=4GsEDk3O6ZBL&format=png"/></a>
-  <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers"><img src="https://img.icons8.com/?size=48&id=rPAHs7H1vriV&format=png"/></a>
-   <a href="https://code.visualstudio.com/download"><img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png"/></a>
-  <a href="https://swagger.io/"><img src="https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png"/></a>
-</div>
 
 
 
+<br/>
+
+<br/>
 
 
-<h1 align="center">Developed Live Applications: <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+<h1 ><img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> Developed Live Applications:  </h1>
 
 
 <div align="center"> 
@@ -84,13 +68,39 @@
     
    
 </div>
+<br/>
 
+<br/>
+<h1> 🚀 Languages, Tools and Technologies:</h1>
+
+
+<div align="center"> 
+    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png"/> </a> 
+    <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
+    <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
+ <a href="https://dart.dev/guides" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.json.org/json-en.html"><img src="https://img.icons8.com/?size=48&id=114474&format=png"/></a>
+  <a href="https://www.w3schools.com/xml/el_documentation.asp"><img src="https://img.icons8.com/?size=48&id=4GsEDk3O6ZBL&format=png"/></a>
+  <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers"><img src="https://img.icons8.com/?size=48&id=rPAHs7H1vriV&format=png"/></a>
+   <a href="https://code.visualstudio.com/download"><img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png"/></a>
+  <a href="https://swagger.io/"><img src="https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png"/></a>
+</div>
+<br/>
+
+<br/>
 <p align="center">
     <a href="https://github.com/MaheshKumarPrajapati/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahesh Kumar Prajapati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKumarPrajapati&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br/>
 
+<br/>
  
 <a href="https://github.com/MaheshKumarPrajapati/github-readme-stats" >
   <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=MaheshKumarPrajapati&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />

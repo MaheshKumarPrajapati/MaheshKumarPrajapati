@@ -35,25 +35,6 @@
 <a href = "https://www.facebook.com/maheshknmiet"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a> 
 </p>
     
-
-<a href="https://github.com/MaheshKumarPrajapati/github-readme-stats" >
-  <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=MaheshKumarPrajapati&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-  <a href="https://github.com/MaheshKumarPrajapati/github-readme-stats">
-  <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshKumarPrajapati&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-  
-  
-  
-  #
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaheshKumarPrajapati)
-
-
-
 #
 <h1> 🚀 Languages, Tools and Technologies:</h1>
 
@@ -109,7 +90,21 @@
    
 </div>
  
+<a href="https://github.com/MaheshKumarPrajapati/github-readme-stats" >
+  <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=MaheshKumarPrajapati&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+  <a href="https://github.com/MaheshKumarPrajapati/github-readme-stats">
+  <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshKumarPrajapati&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+  
+  
+  
+  #
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaheshKumarPrajapati)
 
 ## ❤ Views and Followers
 

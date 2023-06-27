@@ -58,11 +58,6 @@
 
 
 
-<p align="center">
-    <a href="https://github.com/MaheshKumarPrajapati/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahesh Kumar Prajapati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKumarPrajapati&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 
 <h1 align="center">Developed Live Applications: <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
@@ -89,6 +84,13 @@
     
    
 </div>
+
+<p align="center">
+    <a href="https://github.com/MaheshKumarPrajapati/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahesh Kumar Prajapati's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshKumarPrajapati&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
  
 <a href="https://github.com/MaheshKumarPrajapati/github-readme-stats" >
   <img   alt="Mahesh Kumar Prajapati's Top Languages" style="width:49%" src="https://github-readme-stats.vercel.app/api?username=MaheshKumarPrajapati&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />

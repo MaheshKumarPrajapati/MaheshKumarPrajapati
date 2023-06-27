@@ -84,27 +84,14 @@
 </p>
 
 
-<h1 align="center">My Github Status : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
+<h1 align="center">Developed Live Applications : <img src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif" height="50px" width="50px"/> </h1>
 
 
 <div align="center"> 
-    <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png"/> </a>
+    <a href="https://play.google.com/store/apps/details?id=dk.geonote.android.taskmanager" target="_blank"> <img src="https://play-lh.googleusercontent.com/rSIN7QkCnjFemUAl-cO2pfnDsYYAGicMALYu0e8eAEcnQ_M2lquNnhYhFPIXF83bEw=w240-h480-rw"/> </a>
     <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png"/> </a> 
     <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a> 
-    <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
- <a href="https://dart.dev/guides" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
-  <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.json.org/json-en.html"><img src="https://img.icons8.com/?size=48&id=114474&format=png"/></a>
-  <a href="https://www.w3schools.com/xml/el_documentation.asp"><img src="https://img.icons8.com/?size=48&id=4GsEDk3O6ZBL&format=png"/></a>
-  <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers"><img src="https://img.icons8.com/?size=48&id=rPAHs7H1vriV&format=png"/></a>
-   <a href="https://code.visualstudio.com/download"><img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png"/></a>
-  <a href="https://swagger.io/"><img src="https://img.icons8.com/?size=48&id=rdKV2dee9wxd&format=png"/></a>
-</div>
-
-<img alt="Mahesh Kumar Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaheshKumarPrajapati&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  
 
 
 ## ❤ Views and Followers

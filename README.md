@@ -17,7 +17,7 @@
 <br/>
 
 
-- 🔭 I’m currently working at **HCL Technologies LTd**
+- 🔭 I’m currently working *Technical Lead at **HCL Technologies LTd**
 - 💞️  I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻  My main projects are available at **[My Projects](https://www.linkedin.com/in/mahesh-kumar-prajapati-76a03847/details/projects/)**
 - 📫 How to reach me **maheshprajapati1990@gmail.com**

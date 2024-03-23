@@ -67,6 +67,10 @@
       <tr>
     <th>  <a href="https://play.google.com/store/apps/details?id=dk.le34.gismo4" target="_blank"> <img src="https://play-lh.googleusercontent.com/qUgWEwLJ7pVobcYY4i070S36JaAMrfehHHEcyNDVtMpqFsCZGm9uTV-jif-zzHDi8ls=w240-h480-rw"/> </a>  </th>
     <th><a href="https://play.google.com/store/apps/details?id=com.infoicon.mapndrive" target="_blank"> <img src="https://play-lh.googleusercontent.com/vzQ0v8KpyRN0WVFOUSW_CAvnH7jxoiS8mSIv5ZCW50a3Cln9u1s3SuaXwHrRGDPRhhA=w240-h480-rw"/> </a> </th> </tr>
+
+     <tr>
+    <th><a href="https://play.google.com/store/apps/details?id=dk.geonote.android.taskmanager" target="_blank"> <img src="https://play-lh.googleusercontent.com/rSIN7QkCnjFemUAl-cO2pfnDsYYAGicMALYu0e8eAEcnQ_M2lquNnhYhFPIXF83bEw=w240-h480-rw"/> </a></th>
+</tr>
    
 </div>
 <br/>

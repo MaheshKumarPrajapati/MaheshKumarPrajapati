@@ -1,6 +1,6 @@
 <p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://thumbs.gfycat.com/SeriousJoyousAustraliancattledog-size_restricted.gif" height="175px"/></a></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Android+Application+Developer;with+10++years+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Android+Application+Developer;with+11++years+experience)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, My Name is Mahesh Kumar Prajapati</h1>
 <h2 align="center">Experienced Application Developer with demonstrated history of working in the computer software development industry. Skilled in Android, Kotlin and Core Java.</h2>

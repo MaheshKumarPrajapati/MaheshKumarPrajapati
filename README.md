@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E96443,50:904E95,100:2A73CC&height=200&section=header&text=Mahesh%20Kumar%20Prajapati&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20AI/ML%20Enthusiast%20%7C%20Tech%20Lead&descAlignY=53&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E96443,50:904E95,100:2A73CC&height=200&section=header&text=Mahesh%20Kumar%20Prajapati&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Technical%20Lead%20%7C%20Android%20Expert%20%7C%20AI/ML%20Enthusiast&descAlignY=53&descAlign=50"/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -10,12 +10,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=E96443&center=true&vCenter=true&multiline=true&width=700&height=100&lines=11%2B+Years+in+Android+Development+%F0%9F%93%B1;Building+AI-Powered+Mobile+Solutions+%F0%9F%A4%96;From+Code+to+Intelligence+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
+<br/>
 
 <!-- Social Badges with Icons -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-kumar-prajapati)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshKumarPrajapati)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshprajapati1990@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919958862094)
 
 <br/>
 
@@ -358,7 +358,6 @@ I'm always open to discussing:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-kumar-prajapati)
 [![Email](https://img.shields.io/badge/Email_Me-maheshprajapati1990@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshprajapati1990@gmail.com)
-[![Phone](https://img.shields.io/badge/Call_Me-+91--9958862094-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919958862094)
 
 </div>
 
